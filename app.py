@@ -10,7 +10,7 @@ class Notes:
         pa_filename = input("Enter the PA Filename\n").lower()
         value = os.fspath(pa_filename)  # os path like object, accepts variable value
         with open(value, "+a", encoding="UTF-8") as new: # with statement to open txt files as 'new'
-            content = str(input())
+            content = str(input(f"Please enter the note for {value}\n"))
             new.write("\n")
             new.write(content)
             now = datetime.now() # variable 'now' with the value of current date/time
