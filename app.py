@@ -23,7 +23,7 @@ class Notes:
 CT = Notes("Carlos")
 CG = Notes("Christian")
 SS = Notes("Santiago")
-CC = Notes("Ceaser")
+CC = Notes("Cesar")
 BO = Notes("Bo")
 MM = Notes("Michael")
 New = Notes("Placeholder")

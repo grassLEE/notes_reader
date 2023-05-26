@@ -13,7 +13,7 @@ class Reader():
 
 bo = Reader()
 carlos = Reader()
-ceaser = Reader()
+cesar = Reader()
 christian = Reader()
 michael = Reader()
 santiago = Reader()
