@@ -26,6 +26,7 @@ SS = Notes("Santiago")
 CC = Notes("Cesar")
 BO = Notes("Bo")
 MM = Notes("Michael")
+JG = Notes("Jeffrey")
 New = Notes("Placeholder")
 New.newEntry()
 
